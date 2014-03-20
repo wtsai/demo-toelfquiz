@@ -1,0 +1,26 @@
+{
+  "name": "demo-toelfquiz",
+  "version": "0.0.1",
+  "private": false,
+  "scripts": {
+    "start": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "3.4.8",
+    "jade": "*",
+    "dbhouse": ">=0.0.26"
+  },
+  "description": "toelfquiz by Mandice Contributors.",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wtsai/demo-toelfquiz"
+  },
+  "keywords": [
+    "mongodb",
+    "jade",
+    "express"
+  ],
+  "author": "Mandice Contributors",
+  "license": "MIT"
+}
